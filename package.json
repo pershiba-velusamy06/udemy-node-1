@@ -5,7 +5,7 @@
   "repository": "https://github.com/pershiba-velusamy06/udemy-node-1.git",
   "author": "pershiba velusamy",
   "license": "MIT",
-  "type": "module",
+ 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     ".": "nodemon ./src/index.js",
