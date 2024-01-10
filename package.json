@@ -1,0 +1,18 @@
+{
+  "name": "udemy-node-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pershiba-velusamy06/udemy-node-1.git",
+  "author": "pershiba velusamy",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    ".": "nodemon ./src/index.js",
+    "start":"node ./src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2"
+  }
+}

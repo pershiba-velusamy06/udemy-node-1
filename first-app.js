@@ -4,9 +4,10 @@
 
 // console.log("hello from nodejs")
 
-const http = require('http')
-const RequestResponseFun = require('./routes')
+// const http = require('http')
+// const RequestResponseFun = require('./routes')
 
-const server = http.createServer(RequestResponseFun)
+// const server = http.createServer(RequestResponseFun)
 
-server.listen(3000)
+// server.listen(3000)
+
